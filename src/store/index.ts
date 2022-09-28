@@ -9,7 +9,7 @@ const initialState: {
   squareBeingDragged: Element | undefined;
 } = {
   board: [],
-  boardSize: 6,
+  boardSize: 8,
   squareBeingDragged: undefined,
   squareBeingReplaced: undefined,
 };
